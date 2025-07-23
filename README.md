@@ -1,16 +1,49 @@
-# flutter_ai
+<h1 align="center">🛍️ SmartStore.AI</h1>
+<p align="center">A Private, AI-Powered E-Commerce App – Built with Flutter</p>
 
-A new Flutter project.
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/a6ba125da3402086eea28f33d327b45d62e92606.svg" title="Repobeats analytics image" />
+</p>
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📆 Daily Dev Log
 
-A few resources to get you started if this is your first Flutter project:
+> This is a living, day-by-day development journal for SmartStore.AI — documenting my progress and process as I build my private store app using Flutter + Firebase + AI (later).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ✅ **Day 1 – Project Initialization**
+
+- ✅ Decided the project idea: **SmartStore.AI** – private e-commerce app for my own business.
+- ✅ Installed Flutter SDK on macOS & Linux.
+- ✅ Installed VS Code with Flutter & Dart extensions.
+- ✅ Installed Android Studio & configured Android Emulator.
+- ✅ Installed Xcode for iOS Simulator.
+- ✅ Verified setup with `flutter doctor` (all green ✅).
+- ✅ Created initial Flutter project: `smartstore_ai`.
+- ✅ Initialized private GitHub repo and connected local project.
+
+---
+
+## 🔭 Planned Next Steps
+
+> These steps are **not done yet**, but planned for upcoming days:
+
+- 🔥 Setup Firebase (Auth + Firestore + Storage)
+- 🧱 Build product listing screen
+- 🛒 Implement cart logic
+- 🤖 Integrate OpenAI for smart features
+- 🎨 Design custom UI in Figma
+- 🚀 Deploy web version + build iOS & Android versions
+
+---
+
+## 📜 License
+
+This project is private and not open-source.  
+All rights reserved © F58AIE.
+
+---
+
+<p align="center"><i>Built with 💙 by F58AIE – AI Engineer & Full Stack Developer</i></p>
