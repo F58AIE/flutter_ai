@@ -1,4 +1,4 @@
-<h1 align="center">🛍️ SmartStore.AI</h1>
+<h1 align="center">Store With AI</h1>
 <p align="center">A Private, AI-Powered E-Commerce App – Built with Flutter</p>
 
 <p align="center">
